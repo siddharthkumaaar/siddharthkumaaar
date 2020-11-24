@@ -13,4 +13,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthkumaaar&show_icons=true&locale=en&layout=compact" alt="siddharthkumaaar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddharthkumaaar&show_icons=true&locale=en" alt="siddharthkumaaar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddharthkumaaar&show_icons=true&count_private=true" alt="siddharthkumaaar" /></p>
