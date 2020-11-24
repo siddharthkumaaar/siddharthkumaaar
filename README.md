@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddharth Kumar</h1>
 <h3 align="center">A passionate Full Stack (MERN) developer</h3>
-<h4 align="center" target="_blank">visit my portfolio to learn more:https://siddharthkumaaar.github.io</h4>
+<h4 align="center">visit my portfolio to learn more:https://siddharthkumaaar.github.io</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
